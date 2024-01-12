@@ -1,4 +1,5 @@
 ## Node.js and backend
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 
 - Internals and concepts
   - Strong and weak sides of node.js👂 heard
@@ -60,29 +61,6 @@
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
-- Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
-  - CQS
-  - CQRS
-  - Event sourcing
-  - Load balancing
-  - Serverless clouds
-  - FaaS clouds
-  - Fat controller
-  - GoF for Node.js
-  - Leaking abstractions
 - Network
   - IP sticky sessions
   - Endpoint throttling
