@@ -1,91 +1,91 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Code
-  - Programm
+  - Model🖐️ used
+  - Modeling👂 heard
+  - Subject domain👂 heard
+  - Algorithm👂 heard
+  - Syntax🙋 explained
+  - Semantics👂 heard
+  - Code🖐️ used
+  - Programm👂 heard
   - Programming paradigm
   - Programming language
   - Software engineering
   - Decomposition
   - Control flow
-  - Data flow
+  - Data flow🙋 explained
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
+  - value🖐️ used
+  - identifier👂 heard
+  - variable🖐️ used
+  - constant🖐️ used
+  - scalar🖐️ used
+  - literal👂 heard
+  - expression👂 heard
+  - heap👂 heard
+  - function🙋 explained
   - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
+  - method🙋 explained
+  - class🙋 explained
+  - prototype🙋 explained
+  - event🖐️ used
+  - type🙋 explained
   - primitive types
   - reference types
   - flag
   - lexical scope
   - code block
-  - conditions
-  - loops
-  - assignment
+  - conditions🖐️ used
+  - loops🙋 explained
+  - assignment🎓 known
   - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - interface🖐️ used
+  - contract🎓 known
+  - module🖐️ used
+  - call stack🖐️ used
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature🖐️ used
+  - argument🙋 explained
+  - parameter🖐️ used
   - pure function
   - lambda expression
   - side effects
-  - closure
+  - closure🖐️ used
   - partial application
-  - curry
+  - curry🖐️ used
   - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
+  - recursion🎓 known
+  - callback🖐️ used
+  - listener🖐️ used
+  - compose🖐️ used
+  - pipe🎓 known
+  - memoize🎓 known
   - wrapper
   - functor
   - monad
   - monoid
-  - generator
+  - generator🙋 explained
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - array🙋 explained
+  - structure🙋 explained
+  - record🙋 explained
+  - enum🙋 explained
+  - instance🙋 explained
+  - object🙋 explained
+  - class🙋 explained
+  - collection🖐️ used
+  - set🖐️ used
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
+  - queue🖐️ used
+  - stack🖐️ used
+  - deque🖐️ used
+  - tree🎓 known
   - graph
   - iterator
   - mutable state
@@ -93,21 +93,21 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
+  - compiler🎓 known
+  - transpiler🎓 known
+  - linter🎓 known
+  - polyfill👂 heard
+  - debugger👂 heard
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
+  - refactoring👂 heard
+  - code review👂 heard
+  - antipatterns🎓 known
+  - paradigm🖐️ used
+  - algorithm🖐️ used
+  - magic numbers👂 heard
+  - hardcode👂 heard
+  - complexity👂 heard
+  - decomposition👂 heard
   - spaghetti
   - silver bullet
   - not invented here
@@ -116,6 +116,6 @@
   - duplicate code
   - exception
   - return early
-  - unittest
-  - git
-  - github
+  - unittest👂 heard
+  - git🖐️ used
+  - github🖐️ used
