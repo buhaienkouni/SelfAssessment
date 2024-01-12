@@ -1,13 +1,13 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js👂 heard
+  - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection👂 heard
+  - Node.js LTS schedule👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
@@ -33,17 +33,17 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async 
   - Copy folder recursively
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
-  - node:async_hooks
+  - node:async_hooks👂 heard
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
@@ -55,16 +55,39 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL👂 heard
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
+- Application structure and architecture
+  - Isolation between layer
+  - Multilayer approach
+  - Separation of concerns
+  - Inversion of control
+  - Dependency injection
+  - GRASP
+  - SOLID
+  - GoF patterns
+  - Distributed systems
+  - Highload applications
+  - Clean architecture
+  - DDD
+  - Message Queue
+  - CQS
+  - CQRS
+  - Event sourcing
+  - Load balancing
+  - Serverless clouds
+  - FaaS clouds
+  - Fat controller
+  - GoF for Node.js
+  - Leaking abstractions
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) 👂 heard
+  - TCP/SSL 👂 heard
   - UDP
   - TLS
   - Websocket
@@ -75,11 +98,11 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS👂 heard
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -115,8 +138,8 @@
 - Error handling and debugging
   - Error
   - error.cause
-  - error.code
-  - error.message
+  - error.code👂 heard
+  - error.message👂 heard
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
