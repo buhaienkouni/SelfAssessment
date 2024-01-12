@@ -1,38 +1,33 @@
 ## Programming fundamental concepts
 
+- Concepts
+  - Model🖐️ used
+  - Modeling👂 heard
+  - Subject domain👂 heard
+  - Algorithm👂 heard
+  - Syntax🙋 explained
+  - Semantics👂 heard
+  - Code🖐️ used
+  - Programm👂 heard
+  - Programming paradigm
+  - Programming language
+  - Software engineering
+  - Decomposition
+  - Control flow
+  - Data flow🙋 explained
 - Syntax and concepts
   - value🖐️ used
-  - identifier
-  - variable🖐️ used
-  - constant🖐️ used
-  - scalar🖐️ used
-  - literal
-  - expression🖐️ used
-  - heap🖐️ used
   - function🙋 explained
   - procedure
   - method🙋 explained
   - class🙋 explained
   - prototype🙋 explained
-  - event
   - type🙋 explained
   - primitive types
   - reference types
   - flag
   - lexical scope
   - code block
-  - conditions
-  - loops🙋 explained
-  - assignment🎓 known
-  - regular expression
-  - interface
-  - contract🎓 known
-  - module
-  - call stack
-- Functions
-  - signature🙋 explained
-  - argument🙋 explained
-  - parameter🙋 explained
   - pure function
   - lambda expression
   - side effects
@@ -70,8 +65,6 @@
   - queue🖐️ used
   - stack🖐️ used
   - deque🖐️ used
-  - tree🖐️ used
-  - graph🖐️ used
   - iterator
   - mutable state
   - immutable state
@@ -81,18 +74,6 @@
   - compiler🎓 known
   - transpiler🎓 known
   - linter🎓 known
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns🎓 known
-  - paradigm🖐️ used
-  - algorithm🖐️ used
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
   - spaghetti
   - silver bullet
   - not invented here
@@ -101,7 +82,4 @@
   - duplicate code
   - exception
   - return early
-  - unittest
-  - git🖐️ used
-  - github🖐️ used
-👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+

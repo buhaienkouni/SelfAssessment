@@ -1,5 +1,4 @@
-## Programming fundamental concepts
- 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+
 
 - Language
   - Object 🖐️ used
@@ -25,7 +24,7 @@
   - globalThis🖐️ used
   - window🖐️ used
   - getters and setters🖐️ used
-  - __proto__🎓 known
+
   - prototype🎓 known
   - equality operators 🎓 known
   - logical operators🖐️ used
@@ -73,8 +72,6 @@
   - typed arrays🖐️ used
   - Map🖐️ used
   - Set🖐️ used
-  - undefined🖐️ used
-  - null🖐️ used
   - Proxy🖐️ used
   - weak collections🖐️ used
   - timers🖐️ used
@@ -87,4 +84,4 @@
   - Node.js 🖐️ used
   - npm 🎓 known
   - prettier🎓 known
-  - MDN🎓 known
+
