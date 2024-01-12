@@ -1,20 +1,5 @@
 ## Programming fundamental concepts
 
-- Concepts
-  - Model🙋 explained
-  - Modeling
-  - Subject domain🙋 explained
-  - Algorithm
-  - Syntax🙋 explained
-  - Semantics
-  - Code🙋 explained
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow🙋 explained
 - Syntax and concepts
   - value🖐️ used
   - identifier
